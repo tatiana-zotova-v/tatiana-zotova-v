@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tatiana-zotova-v
 - 👩‍🏫 I'm studying at Moscow Aviation Institute
 - 🌱 I’m currently writting at C++ programming language
-- ⏲ I had been writting at C for one year by the time I started wrote at C++
+- ⏲ I had been writting at C for one year by the time I started wroting at C++
 - 📫 My email: tatiana.zotova.v@yandex.ru
 
 <!---
